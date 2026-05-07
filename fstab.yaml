@@ -1,5 +1,5 @@
 mountpoints:
   /:
-    url: "https://author-p147645-e1510637.adobeaemcloud.com/bin/franklin.delivery/anton-nosenko/aem-boilerplate/main"
+    url: "https://author-p147645-e1510637.adobeaemcloud.com/bin/franklin.delivery/antonn/universal-editor-getting-started/main"
     type: "markup"
     suffix: ".html"
