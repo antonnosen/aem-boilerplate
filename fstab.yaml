@@ -1,6 +1,5 @@
 mountpoints:
   /:
-    url: " https://author-p147645-e1510637.adobeaemcloud.com/bin/franklin.delivery/anton-nosenko/aem-boilerplate/main"
-   /ui#/aem/sites.html/content
+    url: "https://author-p147645-e1510637.adobeaemcloud.com/bin/franklin.delivery/anton-nosenko/aem-boilerplate/main"
     type: "markup"
     suffix: ".html"
