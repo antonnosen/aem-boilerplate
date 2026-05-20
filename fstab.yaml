@@ -1,5 +1,5 @@
 mountpoints:
   /:
-    url: "https://author-p147645-e1510637.adobeaemcloud.com/bin/franklin.delivery/antonn/universal-editor-getting-started/main"
+    url: "https://author-p147645-e1510637.adobeaemcloud.com/bin/franklin.delivery/antonn/universal-editor-getting-started/Add-video-block"
     type: "markup"
     suffix: ".html"
