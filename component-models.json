@@ -214,5 +214,40 @@
         "valueType": "string"
       }
     ]
+  },
+  {
+    "id": "video",
+    "fields": [
+      {
+        "component": "reference",
+        "valueType": "string",
+        "name": "image",
+        "label": "Placeholder Image",
+        "multi": false
+      },
+      {
+        "component": "text",
+        "valueType": "string",
+        "name": "imageAlt",
+        "label": "Placeholder Alt Text",
+        "value": ""
+      },
+      {
+        "component": "aem-content",
+        "name": "link",
+        "label": "Video Link"
+      },
+      {
+        "component": "multiselect",
+        "name": "style",
+        "label": "Style",
+        "options": [
+          {
+            "name": "Autoplay",
+            "value": "autoplay"
+          }
+        ]
+      }
+    ]
   }
 ]
